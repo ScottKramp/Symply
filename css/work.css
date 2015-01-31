@@ -1,0 +1,104 @@
+.workHead{
+	margin-top: 95px;
+	height: 60px;
+	width: 100%;
+	background-color: #f2f2f2;
+	cursor: crosshair;
+}
+.workHeadItem{
+	width: 33%;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #ececec; 
+	float: left;
+	height: 38px;
+	text-align: center;
+	font-family: Prestige;
+	font-size: 16px;
+	padding-top: 22px;
+}
+.workHeadBlocks{
+	width: 20px;
+	height: 20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.workHeadBlock{
+	position: relative;
+	width: 8px;
+	height: 8px;
+	background-color: #171717;	
+	float: left;
+}
+.workHeadBlock1{
+	margin-right: 4px;
+	margin-bottom: 4px;
+}
+.workHeadBlock2{
+	margin-bottom: 4px;
+}
+.workHeadBlock3{
+	margin-right: 4px;
+}
+.workExampleHeroImg img{
+	width: 100%;
+	height: 600px;
+}
+.workInfoBlock{
+	width: 100%;
+	height: 400px;
+	background-color: #f2f2f2;
+}
+.workInfoContent{
+	width: 768px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 400px;
+	padding-top: 50px;
+}
+.workInfoContentLeft{
+	height: 100px;
+	width: 344px;
+	float:left;
+}
+.workInfoContentRight{
+	height: 100px;
+	width: 424px;
+	float:left;
+}
+.workInfoContentLeftTitle{
+	font-size: 30px;
+	font-family: 'Oswald';
+	margin-bottom: 20px;
+}
+.workInfoContentLeftBold{
+	font-size: 16px;
+	font-family: Prestige;
+	font-weight: bolder;
+	margin-bottom: 5px;
+}
+.workInfoContentLeftText{
+	font-size: 14px;
+	font-family: Prestige;
+	line-height: 25px;
+}
+.workInfoContentRightText{
+	font-size: 14px;
+	font-family: Prestige;
+	line-height: 25px;
+	margin-bottom: 50px;
+}
+.workInfoContentRightButton{
+	font-size: 18px;
+	font-family: 'Oswald';
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+

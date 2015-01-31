@@ -1,0 +1,177 @@
+/*XXS*/
+@media (max-width:479px){
+	.pageTop, header{
+		width:320px;
+	}
+	.typeBlock, .workLink{
+		width:280px;
+	}
+	.logo{
+		font-size: 50px;
+	}
+	.boxText{
+		width: 320px;
+	}
+	.boxLeft, .boxRight{
+		width: 100%;
+	}
+	.boxLeftBlurb2{
+		margin-bottom: 4px;
+	}
+	.pageBottom{
+		height: 1116px;
+	}
+	.xImg{
+		width: 100px;
+		height: 100px;
+		margin-top: 500px;
+	}
+}
+/*XS*/
+@media (min-width:480px) and (max-width:639px){
+	.pageTop, header{
+		width:480px;
+	}
+	.typeBlock, .workLink{
+		width:440px;
+	}
+	.logo{
+		font-size: 60px;
+	}
+	.boxText{
+		width: 480px;
+	}
+	.boxLeft, .boxRight{
+		width: 100%;
+	}
+	.boxLeftBlurb2{
+		margin-bottom: 20px;
+	}
+	.pageBottom{
+		height: 975px;
+	}
+	.xImg{
+		width: 100px;
+		height: 100px;
+		margin-top: 420px;
+	}
+}
+/*S*/
+@media (min-width:640px) and (max-width:767px){
+	.pageTop, header{
+		width:640px;
+	}
+	.typeBlock, .workLink{
+		width:500px;
+	}
+	.logo{
+		font-size: 60px;
+	}
+	.boxText{
+		width: 300px;
+	}
+	.boxLeft, .boxRight{
+		width: 50%;
+	}
+	.boxRightBlurb2{
+		margin-bottom: 34px;
+	}
+	.pageBottom{
+		height: 638px;
+	}
+	.xImg{
+		width: 50px;
+		height: 50px;
+		margin-top: 266px;
+	}
+}
+/*M*/
+@media (min-width:768px) and (max-width:959px){
+	.pageTop, header{
+		width:768px;
+	}
+	.typeBlock, .workLink{
+		width:500px;
+	}
+	.logo{
+		font-size: 60px;
+	}
+	.boxText{
+		width: 374px;
+	}
+	.boxLeft, .boxRight{
+		width: 50%;
+	}
+	.pageBottom{
+		height: 547px;
+	}
+	.xImg{
+		width: 100px;
+		height: 100px;
+		margin-top: 190px;
+	}
+}
+/*L*/
+@media (min-width:960px) and (max-width:1399px){
+	.pageTop, header{
+		width:768px;
+	}
+	.typeBlock, .workLink{
+		width: 500px;
+	}
+	.logo{
+		font-size: 60px;
+	}
+	.boxText{
+		width: 374px;
+	}
+	.boxLeft, .boxRight{
+		width: 50%;
+	}
+	.pageBottom{
+		height: 547px;
+	}
+	.xImg{
+		width: 100px;
+		height: 100px;
+		margin-top: 190px;
+	}
+}
+/*XL*/
+@media (min-width:1400px){
+	.pageTop, header{
+		width:768px;
+	}
+	.typeBlock, .workLink{
+		width: 748px;
+	}
+	.logo{
+		font-size: 60px;
+	}
+	.boxText{
+		width: 374px;
+	}
+	.boxLeft, .boxRight{
+		width: 50%;
+	}
+	.pageBottom{
+		height: 547px;
+	}
+	.xImg{
+		width: 100px;
+		height: 100px;
+		margin-top: 190px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
