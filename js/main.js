@@ -1,6 +1,7 @@
 $(document).ready(adjustments); 
 $(window).resize(adjustments);
 var height, width
+var projectPrice = 0;
 
 // $(".menu").click(function(){
 //   $(this).toggleClass("open");
@@ -66,6 +67,18 @@ $('.projectTile').click(function(){
 		$(this).addClass('activeTile')
 	}
 })
+
+// Project Calculator Start
+
+// if($(".projectTile01").click(function(){
+// 	if($(this).hasClass('activeTile')){
+// 		projectPrice = projectPrice + 1;
+// 	}else{
+// 		projectPrice = projectPrice - 1;
+// 	}
+// }))
+
+// Project Calculator End
 
 $('.stickyFoot').click(function(){
 	if($('.stickyFoot').hasClass('open')){
