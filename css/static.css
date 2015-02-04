@@ -50,6 +50,7 @@ header{
   position: fixed;
   bottom: -60px;
   cursor: pointer;
+  width: 100%;
 }
 .socialMediaBox{
   width: 320px;
@@ -225,6 +226,7 @@ header{
   height: 100%;
   background-color: #333333;
   margin-top: 145px;
+  margin-bottom: 60px;
 }
 .projectBox{
   width: 100%;
@@ -233,13 +235,47 @@ header{
   margin-right: auto;
 }
 .projectRow{
-  height: 200px;
+  height: 190px;
   width: 100%
 }
 .projectTile{
-  height: 200px;
-  width: 20%;
+  height: 130px;
+  width: 25%;
   float: left;
+  font-family: 'Oswald';
+  text-align: center;
+  font-size: 40px;
+}
+.projectTileHalf{
+  width: 50%;
+}
+.titleTile{
+  height: 60px;
+  text-align: center;
+  width: 100%;
+  color: #f7f7f7;
+  font-family: 'Oswald';
+  font-size: 50px;
+}
+.projectTile01, .projectTile11, .projectTile21, .projectTile31, .projectTile41{
+  background-color: #f7f7f7;
+}
+.projectTile02, .projectTile12, .projectTile32, .projectTile42{
+  background-color: #e3e3e3;
+}
+.projectTile03, .projectTile13, .projectTile33, .projectTile43{
+  background-color: #6d6d6e;
+}
+.projectTile04, .projectTile14, .projectTile34, .projectTile44, .projectTile22{
+  background-color: #171717;
+  color: #f7f7f7;
+}
+.projectCalcContainer{
+  height: 500px;
+}
+.projectCalc{
+  background-color: #f7f7f7;
+  margin: 0px auto;
 }
 /*PROJECT PAGE END*/
 
