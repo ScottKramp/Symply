@@ -39,8 +39,7 @@ header{
   margin-left: 40px;
   font-size: 16px;
   text-transform: uppercase;
-    font-family: 'Oswald', sans-serif;
-	letter-spacing:4px;
+    font-family: 'Baufra-DemiBold', Helvetica, Arial, Sans-Serif;
 
 }
 .stickyFoot{
@@ -62,13 +61,13 @@ header{
 .footText{
   color: white;
   text-transform: uppercase;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Baufra-DemiBold', Helvetica, Arial, Sans-Serif;
   font-size: 26px;
   font-size:1.8rem;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
-  width: 231px;
+  width: auto;
   letter-spacing:6px;
   text-align: center;
 }
@@ -154,11 +153,11 @@ header{
   margin-right: auto;
 }
 .workButton{
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Baufra-DemiBold', Helvetica, Arial, Sans-Serif;
   font-size: 18px;
   text-transform: uppercase;
   margin-bottom: 130px;
-  letter-spacing:6px;
+  letter-spacing:2px;
   cursor: pointer;
   color: #171717;
 }
@@ -199,10 +198,9 @@ header{
 }
 .boxLeftBlurb1, .boxRightBlurb1{
   text-transform: uppercase;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Baufra-DemiBold', Helvetica, Arial, Sans-Serif;
   font-size: 14px;
-  letter-spacing:4px;
-  line-height:22px;
+  letter-spacing:1px;line-height:22px;
   color: #f5f5f5;
   margin-bottom: 50px;
 }
