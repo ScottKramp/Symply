@@ -1,0 +1,26 @@
+/*
+Font: 		Baufra
+Style: 		DemiBold
+URL: 		http://www.youworkforthem.com/font/T4099/baufra
+Foundry: 	The Northern Block
+Foundry: 	http://www.youworkforthem.com/designer/94/the-northern-block
+Copyright:	Copyright (c) 2012 by Mariya Chughtai. All rights reserved.
+Version: 	1.5
+Created:	July 04, 2014
+License: 	http://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'Baufra-DemiBold';
+	src: url('baufra-demibold.eot');
+	src: url('baufra-demibold.eot?#iefix') format('embedded-opentype'),
+	     url('baufra-demibold.woff') format('woff'),
+	     url('baufra-demibold.ttf') format('truetype'),
+	     url('baufra-demibold.svg#ywftsvg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
