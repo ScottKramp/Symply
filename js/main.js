@@ -22,22 +22,22 @@ function adjustments(){
 	}
 }
 $('.stickyFoot').mouseenter(function(){
-	$('.stickyFoot').animate({backgroundColor: '#2ec76b'})
+	$('.stickyFoot').animate({backgroundColor: '#0067f2'})
 })
 $('.stickyFoot').mouseleave(function(){
 	$('.stickyFoot').animate({backgroundColor: '#171717'})
 })
 $('.link').mouseenter(function(){
-	$(this).animate({color: '#2ec76b'})
+	$(this).animate({color: '#474747'})
 })
 $('.link').mouseleave(function(){
 	$(this).animate({color: '#171717'})
 })
 $('.projectTile').mouseenter(function(){
-	$(this).animate({backgroundColor: '#2ec76b'})
+	$(this).animate({backgroundColor: '#474747'})
 })
 $('.projectTile04, .projectTile14, .projectTile34, .projectTile44, .projectTile22').mouseenter(function(){
-	$(this).animate({backgroundColor: '#2ec76b', color: 'black'})
+	$(this).animate({backgroundColor: '#474747', color: 'black'})
 })
 $('.projectTile01, .projectTile11, .projectTile21, .projectTile31, .projectTile41').mouseleave(function(){
 	if(!$(this).hasClass('activeTile')){
@@ -46,7 +46,7 @@ $('.projectTile01, .projectTile11, .projectTile21, .projectTile31, .projectTile4
 })
 $('.projectTile02, .projectTile12, .projectTile32, .projectTile42').mouseleave(function(){
 	if(!$(this).hasClass('activeTile')){
-		$(this).animate({backgroundColor: '#e3e3e3'})
+		$(this).animate({backgroundColor: '#474747'})
 	}
 })
 $('.projectTile03, .projectTile13, .projectTile33, .projectTile43').mouseleave(function(){
